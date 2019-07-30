@@ -4,3 +4,29 @@
    font-size: 50px;
    
 }
+
+.pages {
+     color: blue;
+    }
+
+.about {
+    
+    Color: purple;
+    float: left;
+    width: 70%;
+    font-size: 18pt;
+    position: relative;
+    margin-left: 2.5in;
+ }
+
+.picture {
+    float: left ;
+    clear: right;
+    margin-left: 3in
+ }
+
+ .body {
+    width: 60%;
+    text-align: center;
+
+ }
