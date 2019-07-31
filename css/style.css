@@ -1,23 +1,21 @@
 .head {
-    color: red;
-   text-align: center;
-   font-size: 50px;
-   
+    columns: #777;
+    text-align: center;
+    background: #ebebeb;
 }
 
 .pages {
      color: blue;
+     
     }
 
 .about {
-    
-    Color: purple;
-    float: left;
-    width: 70%;
-    font-size: 18pt;
-    position: relative;
-    margin-left: 2.5in;
- }
+    font-family: Arial;
+    Color: rgb(230, 222, 222);
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    }
 
 .picture {
     float: left ;
@@ -30,3 +28,10 @@
     text-align: center;
 
  }
+
+ .aside {
+ color: aquamarine;
+ float: left;
+ position: relative;
+ width: 33%;
+}
